@@ -2,7 +2,7 @@ import React,{ useReducer, createContext, useContext, useRef} from 'react';
 const initialTodos = [
     {
         id: 1,
-        text: '프로젝트 생성하기',
+        text: '밥먹기',
         done: true,
     },
     {
